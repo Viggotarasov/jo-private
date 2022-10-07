@@ -163,8 +163,8 @@ async function startjobotz() {
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 ╭━━•›〘 SUBSCRIBE 〙
 │➳ Channel YouTube
-│➳ THE JO BOT
-│➳ https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w
+│➳ PØ$ЄĪÐØИ
+│➳ https://youtube.com
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
