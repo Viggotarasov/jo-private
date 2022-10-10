@@ -22,8 +22,8 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['17742357510','60177426853','60177426853']
-global.premium = ['+17742357510']
+global.owner = ['13309445416','17742357510','60177426853']
+global.premium = ['+13309445416']
 global.packname = 'POSEIDON-BOT'
 global.author = 'POSEIDON-BOT'
 global.wlcm = []
